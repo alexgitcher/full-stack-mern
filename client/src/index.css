@@ -1,0 +1,25 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+.card .card-action {
+  display: flex;
+  gap: 0 20px;
+  justify-content: space-around;
+  border: none;
+}
+
+.input-field > label {
+  color: #8bc34a;
+}
+
+.col form {
+  margin-top: 40px;
+}
+
+nav .nav-wrapper {
+  padding: 0 2rem;
+}
+
+.preloader-wrapper {
+  display: flex;
+  margin: 5rem auto;
+}
